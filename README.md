@@ -1,7 +1,7 @@
 # search-car
 selected search
 
-according to the brand, year, minimum price, maximum price, number of doors, transmission and color
+according to the brand year minimum price maximum price number of doors transmission and color
 
 shows results for the step that is selected
 
